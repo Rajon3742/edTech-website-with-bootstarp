@@ -1,0 +1,30 @@
+body{
+    overflow-x: hidden;
+    font-size:larger;
+}
+.slider-img{
+    filter: brightness(60%);
+}
+.carousel-item h1{
+    font-weight: 800;
+}
+.mid{
+    margin-bottom: 180px;
+}
+.my-nav-style{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav-item{
+    margin: 10px;
+}
+.nav-item a{
+    font-size: 18px;
+}
+.flexible-item{
+    margin-right: 50px;
+}
+.mid-mid{
+    margin-top: 100px;
+}
